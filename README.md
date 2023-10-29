@@ -8,6 +8,8 @@
 
 <h2> Main Objectives used for this project</h2>
 
-<p>Data Collection: The data for this project was collected from [Kaggle](https://www.kaggle.com/). We would like to express our gratitude to the data providers on Kaggle for making this dataset available for analysis.
-./p>
+ <h2>Data Cleaning and Wrangling:</h2> <p>Prepare and clean the collected data to ensure it is accurate and ready for analysis. Data wrangling techniques were used to handle missing values and inconsistencies. </p>
+
+<h2></h2>
+
 
