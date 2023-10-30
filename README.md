@@ -16,7 +16,7 @@
 <h1>  🛠️ Tools Used:</h1>
 
 <h2> Excel:</h2>
-<p>Excel for data cleaning and preprocessing./p>
+<p>Excel for data cleaning and preprocessing.</p>
 
 <h2>SQL:</h2> 
 
