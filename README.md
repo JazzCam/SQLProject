@@ -14,7 +14,10 @@
  <p>Created data visualizations using Tableau such as charts, maps, and graphs to make the findings more accessible to visualize the data. </p>
 
 <h1>  🛠️ Tools Used:</h1>
-<p>SQL: SQL was used for data extraction and analysis, particularly in retrieving data from databases.</p>
+
+<h2>SQL:</h2> 
+
+<p>SQL was used for data extraction and analysis, particularly in retrieving data from databases.</p>
 
 <h2> Tablaeu: </h2>
 
