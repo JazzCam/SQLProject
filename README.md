@@ -22,9 +22,7 @@
 
 <p>SQL was used for data extraction and analysis, particularly in retrieving data from databases.</p>
 
-<h2> Tablaeu<a href="["](https://public.tableau.com/app/profile/jazzmin.camara/viz/UScostofliving/Dashboard1)>Tableau</a> </h2> 
-
-
+<h2> Tableau (https://public.tableau.com/app/profile/jazzmin.camara/viz/UScostofliving/Dashboard1)</h2>
 <p>Tableau also played a key role in mapping  and offering a visual representation of the data's geographical distribution, complete with latitude and longitude coordinates.</p>
 
 
